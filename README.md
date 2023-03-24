@@ -1,6 +1,7 @@
 This repository is kind of taking coding Project Pratice where it contains some Python Projects from Beginner level to Advanced Level!
 
 Throughout this Days, we cover a massive amount of tools and technologies, including:
+
   Python 3 - the latest version of Python
   PyCharm, Jupyter Notebook, Google Colab
   Python Scripting and Automation
